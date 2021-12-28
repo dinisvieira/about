@@ -90,6 +90,19 @@ content:
             Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
             This is a 100% Remote position.
 
+        title: XPandIT
+        link: https://www.xpand-it.com/
+        # link_text: boringcompany.com
+        sub_title: Tech Lead Developer
+        caption: 2013 - 2017
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Lead Developer of Mobile Apps for iOS and Android using Xamarin.Forms.
+            Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
+            Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
+            This is a 100% Remote position.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:

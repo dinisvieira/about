@@ -48,8 +48,8 @@ linkedin_username: dinisvieira
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I'm a Senior Software Developer (12 years) currently focusing on Mobile Development with Xamarin (8 years). In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
-Throughout the last years I was also the Team Lead of small development teams and helped my managers/companies on key technology decisions
+  I'm a Senior Software Developer (12 years) currently focusing on Mobile Development with Xamarin (8 years). In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
+  Throughout the last years I was also the Team Lead of small development teams and helped my managers/companies on key technology decisions
 
   I am most skilled in: <mark>Mobile Development</mark> using <mark>Xamarin</mark>
 
@@ -90,7 +90,7 @@ content:
             Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
             This is a 100% Remote position.
 
-        title: XPandIT
+      - title: XPandIT
         link: https://www.xpand-it.com/
         # link_text: boringcompany.com
         sub_title: Tech Lead Developer

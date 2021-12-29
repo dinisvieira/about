@@ -66,9 +66,9 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Lead Developer of Mobile Apps for iOS and Android using Xamarin.Forms.
+            - Lead Developer of Mobile Apps for iOS and Android using <mark>Xamarin.Forms</mark>.
             - Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
-            - Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
+            - Implemented <mark>Automated UI Tests</mark> and CI/CD and helped with other key tech decisions.
             - This is a 100% Remote position.
 
       - layout: left
@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             -	Worked across several projects and customers usually as the Team Lead Developer.
             -	Responsible for Training and Workshops both inside the company, customers and other organizations (for example Universities).
-            -	Most projects were for Mobile Development using Xamarin.Native, Xamarin.Forms, Android (Java), iOS (ObjC) but also worked on some Web Development (.Net MVC) and other R&D projects.
+            -	Most projects were for Mobile Development using <mark>Xamarin.Native</mark>, <mark>Xamarin.Forms</mark>, <mark>Android</mark> (Java), <mark>iOS</mark> (ObjC) but also worked on some Web Development (.Net MVC) and other R&D projects.
             -	Created a real time telemetry solution for McNamara / Mercedes using Android and Azure. [Project Video](https://www.youtube.com/watch?v=zL90RIIa0vs)
             -	Worked as a Team Lead Developer for an USA based customer building an app for mobile analytics (Windows Store App)
 
@@ -103,22 +103,121 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+      - layout: top-middle
+        title: Mobile App for Safety Management
+        caption: Present
+        link: https://www.sitedocs.com/
+        link_text: SiteDocs
+        additional_links:
+          - title:  SiteDocs
+            icon: fab fa-website
+            url: https://www.sitedocs.com/
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          This is an ongoing project in which I'm responsible the development of an app for Android and iOS (using Xamarin).
+
+          The project already existed in an unfinished state when I started working on it, so I started doing analysis on how to improve it and as a result we built a new App that has now completely replaced the old one but using improved maintainability techniques and UI/UX
+
+      - layout: top-middle
+        title: Nutrition Platform/Service
+        caption: 2019
+        link: https://www.tribegroup.pt/nutriservice/
+        link_text: Nutri Service
+        additional_links:
+          - title:  Nutri Service
+            icon: fab fa-website
+            url: https://www.tribegroup.pt/nutriservice/
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Tech Lead Developer of a Nutrition Platform/Service
+          - Responsible for the high-level design and Architecture of the entire solution.
+          - Development of <mark>Android</mark> and <mark>iOS</mark> mobile apps that allowed users to access the platform.
+          - Development of the Backend <mark>(Azure/.Net MVC)</mark> that was used by nutritionist professionals.
+
+      - layout: top-middle
+        title: Mobile Banking App
+        caption: 2016
+        additional_links:
+          - title:  iOS
+            icon: fab fa-apple
+            url: https://apps.apple.com/us/app/ca-mobile/id516082610
+          - title:  Android
+            icon: fab fa-android
+            url: https://play.google.com/store/apps/details?id=ca.mobile.explorer&hl=en&gl=US
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Team Leader and Developer of a <mark>Mobile Banking Apps</mark>. (There were two apps, one for consumers and another for companies).
+          
+          The app was developed with Xamarin for Android, iOS and Windows Phone, code sharing was done not only for the three platforms but also for sharing between the two app versions which were similar in design and logic.
+          
+          This App was used as a <mark>case study by Xamarin</mark>.
+
+      - layout: top-middle
+        title: Xamarin Community
+        caption: 2015
+        link: https://www.meetup.com/XPlat-Using-Microsoft-Tools-for-Cross-Platform-Development/
+        link_text: Meetup - Xplat | Using Microsoft Tools for Cross-Platform Development
+        additional_links:
+          - title:  Meetup - Xplat | Using Microsoft Tools for Cross-Platform Development
+            icon: fab fa-meetup
+            url: https://www.meetup.com/XPlat-Using-Microsoft-Tools-for-Cross-Platform-Development/
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Helped create (co-founder) a User Group focused on sharing experiences about using Microsoft Tools for Cross-Platform Development. Created in strong partnership with Microsoft and Xamarin, the objective is to create a community that talks about Microsoft technologies and their integration with Open Source.
+          
+          The community reached about 200 members.
+
+      - layout: top-middle
+        title: Mobile Analytics App
+        caption: 2015
+        link: https://www.youtube.com/watch?v=0mGniLwzO6s
+        link_text: Youtube
+        additional_links:
+          - title:  Youtube
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=0mGniLwzO6s
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Lead and Developer of a <mark>Windows App</mark> for mobile analytics platform that brings data and business intelligence to the next generation of users. The application allows for an interactive handling of all the data it's connected to.
+          
+          During this project, I had to work remotely most of the time and still be in constant contact with my team and also with the other company teams. I also relocated to the USA for a couple of times to work directly in the office.
+
+      - layout: top-middle
+        title: Real-Time Telemetry App/Service
+        caption: 2014
+        link: https://www.youtube.com/watch?v=zL90RIIa0vs
+        link_text: Youtube - The Mercedes-Benz Surfboard for Garrett McNamara
+        additional_links:
+          - title:  The Mercedes-Benz Surfboard for Garrett McNamara
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=zL90RIIa0vs
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Mercedes-Benz exclusively developed a unique surfboard for legendary big wave rider Garrett McNamara's quest to break his own world record in Nazaré, Portugal.
+          
+          I was involved in this project to create a custom custom built telemetry for Garret McNamara and among other findings the top speed achieved was 62,4 Km/h.
+
+      - layout: top-middle
+        title: Kinect Experience
+        caption: 2012
+        link: https://www.youtube.com/watch?v=8jqHGYvVPaM
+        link_text: Youtube - Interactive Itineraries
+        additional_links:
+          - title:  Interactive Itineraries
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=8jqHGYvVPaM
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Interactive Itineraries using Microsoft Kinect and Google Streetview. Users can activate navigation with body gestures and find out more information about sights, and watch videos, activate sounds. Developed by GFI Portugal and first presented at Turismo de Portugal booth in International Tourism Exhibition (Portugal) for Turismo de Portugal.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:

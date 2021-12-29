@@ -9,7 +9,7 @@ version: 2
 name: Dinis Vieira
 title: Mobile Developer
 email: dinis@hey.com
-website: www.github.com/dinisvieira/about
+website: https://www.dinisvieira.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,6 +54,52 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Mobile Development</mark> using <mark>Xamarin</mark>
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SiteDocs
+        link: https://www.sitedocs.com/
+        # link_text: boringcompany.com
+        sub_title: Lead Mobile Developer
+        caption: BC, Canada / 2017 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Lead Developer of Mobile Apps for iOS and Android using Xamarin.Forms.
+            - Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
+            - Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
+            - This is a 100% Remote position.
+
+      - layout: left
+        title: Xpand IT
+        link: https://www.xpand-it.com/
+        # link_text: boringcompany.com
+        sub_title: Tech Lead Developer
+        caption: Lisbon, Portugal / 2013 - 2017
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            -	Worked across several projects and customers usually as the Team Lead Developer.
+            -	Responsible for Training and Workshops both inside the company, customers and other organizations (for example Universities).
+            -	Most projects were for Mobile Development using Xamarin.Native, Xamarin.Forms, Android (Java), iOS (ObjC) but also worked on some Web Development (.Net MVC) and other R&D projects.
+            -	Created a real time telemetry solution for McNamara / Mercedes using Android and Azure. [Project Video](https://www.youtube.com/watch?v=zL90RIIa0vs)
+            -	Worked as a Team Lead Developer for an USA based customer building an app for mobile analytics (Windows Store App)
+
+      - layout: left
+        title: Gfi Portugal
+        #link: https://www.xpand-it.com/
+        #link_text: Lisbon, Portugal
+        sub_title: Research & Development
+        caption: Lisbon, Portugal / 2011 - 2013
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            -	Developed an Interactive Itineraries experiment using Microsoft Kinect and Google StreetView. This was showcased in an International Exhibition in Lisbon.
+            -	Responsible for developing several Apps and PoCs with Phonegap, Kinect, iOS, Android, Windows Phone and Windows Store Apps.
+            -	Internal Community Management: Organized several Geek/Tech Events, helped in defining internal programming practices and methodologies, presented workshops on Windows Store Apps and Mobile Web Development.
+            -	Helped Sales Managers with Pre-Sales initiatives.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -73,61 +119,53 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: SiteDocs
-        link: https://www.sitedocs.com/
-        # link_text: boringcompany.com
-        sub_title: Lead Mobile Developer
-        caption: 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Lead Developer of Mobile Apps for iOS and Android using Xamarin.Forms.
-            Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
-            Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
-            This is a 100% Remote position.
-
-      - title: XPandIT
-        link: https://www.xpand-it.com/
-        # link_text: boringcompany.com
-        sub_title: Tech Lead Developer
-        caption: 2013 - 2017
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Lead Developer of Mobile Apps for iOS and Android using Xamarin.Forms.
-            Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
-            Implemented Automated UI Tests and CI/CD and helped with other key tech decisions.
-            This is a 100% Remote position.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: NOVA University Lisbon
-        caption: 2007 - 20121
+        caption: 2007 - 2011
         sub_title: BSc Computer Science
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at University I managed to have the highest grade in the course final project.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          The project consisted of building a platform that integrates several information services which are accessed through a web application for mobile devices (iPhone, iPad, etc)
 
-  - title: A Little More About Me
+      - layout: left
+        title: Xamarin Certified Developer
+        caption: 2017
+        sub_title: Xamarin
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Certification that was granted by Xamarin University after attending and passing a course on Xamarin Development.
+
+      - layout: left
+        title: Microsoft Certified Solutions Developer
+        caption: 2014
+        sub_title: Microsoft
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Microsoft Certified Solutions Developer: Windows Store Apps using C#.
+          Microsoft Certification for designing and developing Windows Store Apps for Windows using XAML and C#
+
+  - title: Passions
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      <mark>Firefighter/EMT</mark>
+      - Volunteer Firefighter and EMT for 15 years.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      <mark>Pilot</mark>
+      - General Aviation enthusiast with Private Pilot License.
+
+      <mark>Motorcycles</mark>
+      - Adventure Motorcycle enthusiast.
+
+    # Look at this cool image  
+    # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false

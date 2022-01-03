@@ -150,9 +150,9 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Team Leader and Developer of a <mark>Mobile Banking Apps</mark>. (There were two apps, one for consumers and another for companies).
+          Team Leader and Developer of a <mark>Mobile Banking Apps</mark>. (There were two apps, one for particular users and another for companies).
           
-          The app was developed with Xamarin for Android, iOS and Windows Phone, code sharing was done not only for the three platforms but also for sharing between the two app versions which were similar in design and logic.
+          The app was developed with Xamarin for Android, iOS and Windows Phone, code sharing was done not only for the three platforms but also for sharing between the two app "flavors" (particular/company) which were similar in design and logic.
           
           This App was used as a <mark>case study by Xamarin</mark>.
 

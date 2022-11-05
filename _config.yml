@@ -270,6 +270,8 @@ content:
 footer_show_references: false
 # references_title: References on request (Override references text)
 
+| # <a rel="me" href="https://mastodon.social/@dinisvieira">Mastodon</a>
+
 # Build settings
 remote_theme: sproogen/resume-theme
 

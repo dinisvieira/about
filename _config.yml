@@ -266,6 +266,8 @@ content:
     # Look at this cool image  
     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
+| # [Mastodon](https://mastodon.social/@dinisvieira){:rel="me"}
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)

@@ -262,17 +262,22 @@ content:
 
       <mark>Motorcycles</mark>
       - Adventure Motorcycle enthusiast.
+      
+  - title: Links
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [LinkedIn](https://www.linkedin.com/in/dinisvieira)
+      - [Mastodon](https://mastodon.social/@dinisvieira){:rel="me"}
+      - [Twitter](https://twitter.com/dinisvieira)
+      - [Github](https://github.com/dinisvieira)
+      - [TopTal](https://www.toptal.com/resume/dinis-vieira)  
 
     # Look at this cool image  
     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
-| # [Mastodon](https://mastodon.social/@dinisvieira){:rel="me"}
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
-
-| # [Mastodon](https://mastodon.social/@dinisvieira){:rel="me"}
 
 # Build settings
 remote_theme: sproogen/resume-theme

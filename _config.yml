@@ -48,10 +48,10 @@ linkedin_username: dinisvieira
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Senior Software Developer (12 years) currently focusing on Mobile Development with Xamarin (8 years). In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
+  I'm a Senior Software Developer (13 years) currently focusing on Mobile Development with Xamarin / MAUI (9 years). In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
   Throughout the last years I was also the Team Lead of small development teams and helped my managers/companies on key technology decisions
 
-  I am most skilled in: <mark>Mobile Development</mark> using <mark>Xamarin</mark>
+  I am most skilled in: <mark>Mobile Development</mark> using <mark>Xamarin / MAUI</mark>
 
 content:
   - title: Experience # Title for the section
@@ -66,7 +66,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Lead Developer of Mobile Apps for iOS and Android using <mark>Xamarin.Forms</mark>.
+            - Lead Developer of Mobile Apps for iOS and Android using <mark>Xamarin.Forms</mark> and <mark>MAUI</mark>.
             - Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
             - Implemented <mark>Automated UI Tests</mark> and CI/CD and helped with other key tech decisions.
             - This is a <mark>100% Remote</mark> position.

@@ -116,7 +116,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          This is an ongoing project in which I'm responsible the development of an app for Android and iOS (using Xamarin).
+          This is an ongoing project in which I'm responsible the development of an app for Android and iOS (using Xamarin and MAUI).
 
           The project already existed in an unfinished state when I started working on it, so I started doing analysis on how to improve it and as a result we built a new App that has now completely replaced the old one but using improved maintainability techniques and UI/UX
 

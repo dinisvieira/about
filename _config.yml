@@ -267,6 +267,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [LinkedIn](https://www.linkedin.com/in/dinisvieira)
+      - [Bluesky](https://bsky.app/profile/dinisvieira.com)
       - [Mastodon](https://mastodon.social/@dinisvieira){:rel="me"}
       - [Github](https://github.com/dinisvieira)
       - [TopTal](https://www.toptal.com/resume/dinis-vieira)  

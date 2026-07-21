@@ -66,7 +66,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Lead Developer of Mobile Apps for iOS and Android using <mark>Xamarin.Forms</mark> and <mark>MAUI</mark>.
+            - Lead Developer of Mobile Apps for iOS and Android using <mark>Kotlin Multiplatform</mark> and <mark>MAUI / Xamarin</mark>.
             - Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
             - Implemented <mark>Automated UI Tests</mark> and CI/CD and helped with other key tech decisions.
             - This is a <mark>100% Remote</mark> position.

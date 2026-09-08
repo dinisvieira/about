@@ -48,7 +48,7 @@ linkedin_username: dinisvieira
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Senior Software Developer (15 years) currently focusing on Cross-Platform Mobile Development using <mark>Kotlin Multiplatform</mark> / <mark>Compose Multiplatform</mark> and Xamarin/MAUI (10 years). Previous experience includes Native and Hybrid Mobile Development as well as Web Development.
+  Senior Software Developer (15 years) currently focusing on Cross-Platform Mobile Development using <mark>Kotlin Multiplatform</mark> / <mark>Compose Multiplatform</mark> and Xamarin / .Net MAUI. Previous experience includes Native and Hybrid Mobile Development as well as Web Development.
   In recent years, I also served as Team Lead for small development teams and advised management on key technology decisions.
 
   I am most skilled in: <mark>Cross-Platform Mobile Development</mark> using <mark>KMP</mark> / <mark>MAUI</mark>
@@ -66,10 +66,10 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Lead Developer of Mobile Apps for iOS and Android using <mark>Kotlin Multiplatform</mark> and <mark>MAUI / Xamarin</mark>.
-            - Responsible for suggesting and designing new Apps to replace older ones. New app managed to increase the development cycle drastically.
-            - Implemented <mark>Automated UI Tests</mark> and CI/CD and helped with other key tech decisions.
-            - This is a <mark>100% Remote</mark> position.
+            - Spearheaded mobile strategy end-to-end, guiding the app's evolution from startup through a $1B+ acquisition
+            - Redesigned and architected apps using <mark>Kotlin Multiplatform</mark> and <mark>.NET MAUI / Xamarin</mark>, accelerating the development cycle
+            - Introduced automated UI testing and CI/CD pipelines, improving release reliability and velocity; contributed to key architectural and technology decisions
+            - Collaborated fully remotely across distributed teams and time zones
 
       - layout: left
         title: Xpand IT

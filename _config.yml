@@ -118,7 +118,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Led end-to-end development of a cross-platform safety management application (Android/iOS) using .NET MAUI and Xamarin. Took ownership of a legacy codebase, conducting architectural analysis and executing a complete rebuild with modernized maintainability patterns and enhanced UI/UX. 
           
-          The new application fully replaced the original, establishing improved release velocity and long-term scalability. Later spearheaded the platform's migration to Kotlin Multiplatform with Compose Multiplatform.
+          The new application fully replaced the original, establishing improved release velocity and long-term scalability.
+          
+          Later spearheaded the platform's migration to Kotlin Multiplatform with Compose Multiplatform.
           
       - layout: top-middle
         title: Nutrition Platform/Service

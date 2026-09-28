@@ -66,7 +66,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Spearheaded mobile strategy end-to-end, guiding the app's evolution from startup through a $1B+ acquisition
+            - Defined and implemented mobile tech stack and architecture, guiding the app's evolution from startup through a $1B+ acquisition
             - Redesigned and architected apps using <mark>Kotlin Multiplatform</mark> and <mark>.NET MAUI</mark> / <mark>Xamarin</mark>, accelerating the development cycle
             - Introduced automated UI testing and CI/CD pipelines, improving release reliability and velocity; contributed to key architectural and technology decisions
             - Collaborated fully remotely across distributed teams and time zones

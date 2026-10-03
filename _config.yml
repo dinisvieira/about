@@ -81,11 +81,10 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            -	Worked across several projects and customers usually as the Team Lead Developer.
-            -	Responsible for Training and Workshops both inside the company, customers and other organizations (for example Universities).
-            -	Most projects were for Mobile Development using <mark>Xamarin.Native</mark>, <mark>Xamarin.Forms</mark>, <mark>Android</mark> (Java), <mark>iOS</mark> (ObjC) but also worked on some Web Development (.Net MVC) and other R&D projects.
-            -	Created a real time telemetry solution for McNamara / Mercedes using Android and Azure. [Project Video](https://www.youtube.com/watch?v=zL90RIIa0vs)
-            -	Worked as a Team Lead Developer for an USA based customer building an app for mobile analytics (Windows Store App)
+            -	Worked across several projects and customers usually as the <mark>Team Lead Developer</mark> including on US based customer for building an app for <mark>mobile analytics</mark> (Windows Store App).
+            -	Delivered training and workshops inside the company, for customers, and at other organizations (e.g., universities).
+            -	Most projects were mobile development using <mark>Xamarin.Native</mark>, <mark>Xamarin.Forms</mark>, <mark>Android</mark> (Java), and <mark>iOS</mark> (ObjC), but also worked on some <mark>web development</mark> (.NET MVC) and other R&D projects.
+            -	Created a real-time telemetry solution for McNamara/Mercedes using <mark>Android</mark> and <mark>Azure</mark>. https://www.youtube.com/watch?v=zL90RIIa0vs
 
       - layout: left
         title: Gfi Portugal
@@ -96,10 +95,10 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            -	Developed an Interactive Itineraries experiment using Microsoft Kinect and Google StreetView. This was showcased in an International Exhibition in Lisbon.
-            -	Responsible for developing several Apps and PoCs with Phonegap, Kinect, iOS, Android, Windows Phone and Windows Store Apps.
-            -	Internal Community Management: Organized several Geek/Tech Events, helped in defining internal programming practices and methodologies, presented workshops on Windows Store Apps and Mobile Web Development.
-            -	Helped Sales Managers with Pre-Sales initiatives.
+            -	Developed an interactive itineraries experiment using Microsoft Kinect and Google Street View, showcased in an international exhibition.
+            -	Developed several apps and PoCs with PhoneGap, Kinect, iOS, Android, Windows Phone, and Windows Store.
+            -	Internal community management: organized geek/tech events; defined internal programming practices and methodologies; presented workshops on Windows Store apps and mobile web development.
+            -	Helped Sales Managers with pre-sales initiatives.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
